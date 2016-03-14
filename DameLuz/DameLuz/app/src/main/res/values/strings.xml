@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DameLuz</string>
+    <string name="activity_1" />
+    <string name="text">Bienvenido a la App que te ayuda a ahorrar energía para
+        que no te corten la luz! Clickea en el botón de abajo</string>
+    <string name="onClick" />
+    <string name="title_activity_2">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Entra o registrate</string>
+    <string name="action_sign_in_short">Entrar</string>
+    <string name="error_field_required">Debe ingresar un password</string>
+    <string name="register_indication">Por favor ingresa un password para registrarte</string>
+
+</resources>
